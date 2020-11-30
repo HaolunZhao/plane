@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
+//实现淡入淡出效果
 public class ScreenFaderInout : MonoBehaviour
 {
     public Texture image;
