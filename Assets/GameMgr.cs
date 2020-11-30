@@ -33,7 +33,7 @@ public class GameMgr : MonoBehaviour {
 	//public bool isGamePause = false;
 	// Use this for initialization
 	void Start () {
-	
+		Screen.SetResolution(540,960,false);//宽与高固定，不需要全屏
 		StartCoroutine(SpawnWaves());//开启协程
 		StartCoroutine(propSpawnWaves());//开启道具协程
 		StartCoroutine(bossSpawnWaves());//开启boss协程

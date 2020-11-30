@@ -72,17 +72,14 @@
     <Compile Include="Assets\DestroyByTime.cs" />
     <Compile Include="Assets\DodgeController.cs" />
     <Compile Include="Assets\EnemyBulletContactController.cs" />
-    <Compile Include="Assets\EnemyWeapon.cs" />
     <Compile Include="Assets\EnemyWeaponController.cs" />
     <Compile Include="Assets\GameMgr.cs" />
     <Compile Include="Assets\GamePropsController.cs" />
     <Compile Include="Assets\isGamePause.cs" />
     <Compile Include="Assets\killall.cs" />
     <Compile Include="Assets\killPropContactCheck.cs" />
-    <Compile Include="Assets\loadScene.cs" />
     <Compile Include="Assets\mainmenu.cs" />
     <Compile Include="Assets\moveController.cs" />
-    <Compile Include="Assets\playership.cs" />
     <Compile Include="Assets\playershipController.cs" />
     <Compile Include="Assets\RoteController.cs" />
     <Compile Include="Assets\ScreenFaderInout.cs" />
